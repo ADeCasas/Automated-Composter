@@ -1,4 +1,6 @@
+![Image](https://private-user-images.githubusercontent.com/197314087/411070746-a8c42834-eb8d-4ab2-8638-6eef577d97dc.jpg)
 
+https://private-user-images.githubusercontent.com/197314087/411070746-a8c42834-eb8d-4ab2-8638-6eef577d97dc.jpg
 https://github.com/ADeCasas/Automated-Composter/issues/2#issue-2839003649
 
 Hello

@@ -1,7 +1,9 @@
 Challenger Middle School currently has several composters that are used for the school gardening program. Some of the problems that the students have are:
+
 *Composting bin is too small for what they need.
 *Manually turning the composter is difficult because it can get too heavy to manually turn.
 *Someone is not always around to turn compost
+
 As a team we designed and built a larger scale automated composting system. It's an automated mixing mechanism that turns the compost for aeration based on either time and/or temperature of the compost, and it's able to measure and monitor temperature and moisture content for optimal composting.
 
 
